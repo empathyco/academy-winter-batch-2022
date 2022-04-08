@@ -8,9 +8,11 @@ Installation and integration of the different technologies to be used in the pat
 
 #### Participants & Content Deliverers
 
-| **Jesús Rebordinos** |
-| **Miriam Ábalo** | **Alberto Villamayor** | 
-| [Jesús Rebordinos](https://github.com/jesus-rebor) | [Miriam Ábalo](https://github.com/MiriamLynx) | [Alberto Villamayor](https://github.com/avillamayordevega)|
+ **Path Owner** | **Content Deliverer** | 
+| --- | --- | 
+| [Jesús Rebordinos](https://github.com/jesus-rebor) | [Jesús Rebordinos](https://github.com/jesus-rebor) |
+| | [Miriam Ábalo](https://github.com/MiriamLynx) |
+| | [Alberto Villamayor](https://github.com/avillamayordevega) |
 
 \
 &nbsp;
