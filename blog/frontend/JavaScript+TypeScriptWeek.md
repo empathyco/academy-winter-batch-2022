@@ -48,8 +48,11 @@ We went through an introduction of JavaScript and TypeScript in order to increas
 
 ## Javascript queries, functional methods & find the suspect
 (Autonomos work)
+
 Given a base project with different data samples, complete the queries in the comments and check they return the expected result.  
+
 When finished, try to implement some functions that were used in the previous exercise or that are in the [JS Web Developer](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) web. 
+
 Finally, complete the exercise given on the "sospechoso.js" file.
 
 
