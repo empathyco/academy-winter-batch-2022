@@ -4,7 +4,7 @@
 ## Session
 ### Max five words description
 
-*Date of the session*
+*DD-MM-YYYY*
 
 #### Participants & Content Deliverers
 
