@@ -1,4 +1,4 @@
-# Week 2.
+## WEEK 2.
 A script about what we did on the data path along the second week 
 
 --------------------------------
