@@ -1,0 +1,8 @@
+# Javascript and Typescript #
+During Week 2, we went through an introduction of JavaScript and TypeScript in order to increase our web development skills. Moreover, we cover how that knowledge could be applied to the DOM and we were introduced to some tools to feel powerful web engineers.
+## First steps ##
+Starting the week heavily, we went through class with [Antonio](https://github.com/antonioc-empathy) and [Iván](https://github.com/ivantxu) where we covered the basics of the Javascript language and a brief introduction to the Typescript syntax.
+After we finished, we were tasked with an activity of solving a few problems with functional programming about taking desired information from a data sample.
+Then, when finishing last activity successfully, we were tasked with another exercise of implementing some of the functional methods we used in the previous exercise.
+Forthly, on thursday we were given a class with [Guillermo](https://github.com/CachedaCodes) and [Iván](https://github.com/ivantxu) of the applications of JavaScript to the DOM tree and a brief introduction to uses of the web development tools.
+Finally, on friday we went through a revision of out work and figure out different ways to solve those problems.
