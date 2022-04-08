@@ -1,5 +1,5 @@
 # Unlocking Elasticsearch #
-During Week 2, we started learning how Elasticsearch works. It has not been very difficult for us because we have previous experience. I do not want to rise our egos that much, but this background gave us the ability to soak up like sponges.
+During Week 2, we started learning how Elasticsearch works. It has not been very difficult for us as we have previous experience. I do not want to rise our egos that much, but this background gave us the ability to soak up like sponges.
 ## First steps ##
 You must understand that our past approaches with search engines or databases were with relational databases, and it is a somewhat difficult for our brains to get to really appreciate the big difference between what we have been using and this.
 Elastic stores a mapping from some content to documents, just the other way around as relational databases that use a forward index.
