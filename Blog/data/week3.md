@@ -9,7 +9,7 @@ In order to put in practice the concepts taught in the previous module, Google T
 
 | **Path Owner** | **Content Deliverer** | 
 | --- | --- | 
-| [Eva González](github link) | [Eva González](github link) | \
+| [Eva González](https://github.com/evag-empathy) | [Eva González](https://github.com/evag-empathy) | \
 
 \
 &nbsp;
@@ -39,7 +39,7 @@ In order to put in practice the concepts taught in the previous module, Google T
 
 | **Path Owner** | **Content Deliverer** | 
 | --- | --- | 
-| [Eva González](github link) | [Edgar Herrero](github link) | \
+| [Eva González](https://github.com/evag-empathy) | [Edgar Herrero](https://github.com/edgarRSV4) | \
 
 \
 &nbsp;
