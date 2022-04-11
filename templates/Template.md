@@ -4,28 +4,27 @@
 ## Session
 ### Max five words description
 
-*Date of the session*
+*DD-MM-YYYY*
 
-#### Participants & Content Deliverers
-
+#### Participants & Content Deliverers  <!-- (Do not change this line!!!) -->
+<!-- (Do not change the line below!!!) -->
 | **Path Owner** | **Content Deliverer** | 
 | --- | --- | 
-| [name of the path owner](github link) | [content deliverer](github link) | \
+| [name of the path owner](github link) | [content deliverer](github link) | \ 
 
 \
-&nbsp;
-
-**Key learning points**
+&nbsp; <!-- (Do not change this and above line PLEASE!!!) -->
+**Key learning points** <!-- (Do not change this line!!!) -->
 1. Most important point
 2. ...
 3. ...
 4. ...
 5. Less important point
 
-****
+**** <!-- (Do not change this line!!!) -->
 
 ## Exercise
-(Autonomos work)
+(Autonomous work) <!-- Comment wheter if it is autonomous or group work -->
 <Statement>
 ### [Exercise 1](link git repo)
 **Author** [name](link git user)
