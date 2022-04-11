@@ -1,5 +1,39 @@
 ## WEEK 1
 
-On the first week at the Data Path of the Academy, Eva González thought us about the importance of digital analytics metrics, introduced us to the DIKW model, explained what KPIs are, showed us some analytics slang and analytics processes. With this introduction Eva gave us a first view of the things that are going to be relevant in our every day.
 
-As a task she told us to define a funnel for the empathy search process, select a web site you like and try to define goals and KPIs for it, and check some webs and try to find and see the analytics hits.
+# Welcome Week
+< In this week, Eva introduced us to analytical metrics, terms and processes, giving us a first view of this everyday topics.>
+
+## Session
+### Max five words description
+
+*21-03-2022*
+
+#### Participants & Content Deliverers
+
+| **Path Owner** | **Content Deliverer** | 
+| --- | --- | 
+| [Eva González](github.com/evag-empathy) | [Eva González](github.com/evag-empathy) | \
+
+\
+&nbsp;
+
+**Key learning points**
+1. Analytics process
+2. Analytics slang
+3. Why Digital Analytics?
+4. DIKW model
+
+
+
+
+
+
+****
+
+## Exercise
+(Autonomos work)
+< 
+1. Define a funnel for the empathy search process
+2. Select a web site you like and try to define goals and KPIs for it.
+3. Check some webs and try to find and see the analytics hits.>
