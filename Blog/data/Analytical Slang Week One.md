@@ -33,7 +33,5 @@
 
 ## Exercise
 (Autonomos work)
-< 
-1. Define a funnel for the empathy search process
-2. Select a web site you like and try to define goals and KPIs for it.
-3. Check some webs and try to find and see the analytics hits.>
+< 1. Define a funnel for the empathy search process. \n 2. Select a web site you like and try to define goals and KPIs for it. \n 3. Check some webs and try to find and see the analytics hits.>
+
