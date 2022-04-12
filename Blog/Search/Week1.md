@@ -6,8 +6,6 @@ Installation and integration of the different technologies to be used in the pat
 
 *22/03/2022*
 
-#### Participants & Content Deliverers
-
  **Path Owner** | **Content Deliverer** | 
 | --- | --- | 
 | [Jesús Rebordinos](https://github.com/jesus-rebor) | [Jesús Rebordinos](https://github.com/jesus-rebor) |
