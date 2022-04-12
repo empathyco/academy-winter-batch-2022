@@ -1,17 +1,51 @@
-# Beginning from the basics (HTML + CSS) #
+# Beginning from the basics (HTML + CSS) 
 Our first week working was dedicated to the two fundamental pilars of web development: HTML and CSS.
 
-## First steps ##
-The first step was having a class with [Pedro Ondiviela](https://github.com/PedroOndh) who started from 0 on both.
-## Practicing is key ##
-The rest of the week, to practice, we both developed a personal webpage with plain and simple HTML and CSS. Tough a web nowadays is rarely implemented this way, its always a great practice in order to master these technologies.
-The results of our webpages can be seen here:
-[Carmen's webpage](https://carmen279.github.io/Carmens_experimental_website)
-[Miguel's webpage](https://miguelliar.github.io/Miguel_experimental_website)
-Some images of them:
+## HTML + CSS Session
+### Introduction to development with HTML + CSS
+
+*21/03/2022*
+
+#### Participants & Content Deliverers
+
+| **Path Owner** | **Content Deliverer** | 
+| --- | --- | 
+| [Iván Palleiro](https://github.com/ivantxu) | [Pedro Ondiviela](https://github.com/PedroOndh) | \
+
+\
+&nbsp;
+**Key learning points**
+1. Use of HTML tags and markdown
+2. Styling with CSS
+3. CSS layouts
+4. CSS tricks
+
+****
+
+## Exercise
+Developing a personal webpage using plan HTML and CSS
+
+### Miguel's exercise (https://github.com/miguelliar/Miguel_experimental_website)
+**Author** [Miguel Ligero](https://github.com/miguelliar)
+- HTML markdown
+- CSS styling and using grid layout
+- CSS animations
+- Responsiveness
+
 ![image1](../../assets/imagesfrontweek1/miguelsimage1.png)
 ![image2](../../assets/imagesfrontweek1/miguelsimage2.png)
 ![image3](../../assets/imagesfrontweek1/miguelsimage3.png)
+
+### Carmen's exercise (https://github.com/carmen279/Carmens_experimental_website)
+**Author** [Carmen Rendueles](https://github.com/carmen279)
+- HTML markdown
+- CSS styling and using grid layout
+- CSS animations and tricks
+- Responsiveness
+  
 ![image4](../../assets/imagesfrontweek1/carmensimage1.png)
 ![image5](../../assets/imagesfrontweek1/carmensimage2.png)
 ![image6](../../assets/imagesfrontweek1/carmensimage3.png)
+  
+  
+

@@ -1,8 +1,70 @@
-# Javascript and Typescript #
-During Week 2, we went through an introduction of JavaScript and TypeScript in order to increase our web development skills. Moreover, we cover how that knowledge could be applied to the DOM and we were introduced to some tools to feel powerful web engineers.
-## First steps ##
-Starting the week heavily, we went through class with [Antonio](https://github.com/antonioc-empathy) and [Iván](https://github.com/ivantxu) where we covered the basics of the Javascript language and a brief introduction to the Typescript syntax.
-After we finished, we were tasked with an activity of solving a few problems with functional programming about taking desired information from a data sample.
-Then, when finishing last activity successfully, we were tasked with another exercise of implementing some of the functional methods we used in the previous exercise.
-Forthly, on thursday we were given a class with [Guillermo](https://github.com/CachedaCodes) and [Iván](https://github.com/ivantxu) of the applications of JavaScript to the DOM tree and a brief introduction to uses of the web development tools.
-Finally, on friday we went through a revision of out work and figure out different ways to solve those problems.
+# JavaScript and Typescript
+We went through an introduction of JavaScript and TypeScript in order to increase our web development skills. Moreover, we cover how that knowledge could be applied to the DOM and we were introduced to some tools to feel powerful web engineers.
+
+## JavaScript and TypeScript
+### Introduction to functionality and basics
+
+*28-03-2022*
+
+| **Path Owner** | **Content Deliverer** | 
+| --- | --- | 
+| [Iván Palleiro](https://github.com/ivantxu) | [Antonio Cuenca](https://github.com/antonioc-empathy) | \
+
+\
+&nbsp;
+**Key learning points**
+1. Syntax of the language
+2. Language specifications
+3. Functional programming
+4. Control flow
+5. Typescript syntax and basics
+6. Asyncronous calls
+7. Fetch calls
+
+\
+&nbsp;
+
+## JS DOM and Devtools
+### JavaScript applied to DOM and developer tools
+
+*31-03-2022*
+
+
+| **Path Owner** | **Content Deliverer** | 
+| --- | --- | 
+| [Iván Palleiro](https://github.com/ivantxu) | [Guillermo Cacheda](https://github.com/CachedaCodes) | \
+
+\
+&nbsp;
+
+**Key learning points**
+1. Using developer tools in web environment
+2. Debbuging in web environment 
+3. Javascript applied to HTML
+4. Events in JS and HTML
+
+
+****
+
+## Javascript queries, functional methods & find the suspect
+(Autonomos work)
+
+Given a base project with different data samples, complete the queries in the comments and check they return the expected result.  
+
+When finished, try to implement some functions that were used in the previous exercise or that are in the [JS Web Developer](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) web. 
+
+Finally, complete the exercise given on the "sospechoso.js" file.
+
+
+### [Carmen exercise](https://github.com/carmen279/First_JavaScript_And_TypeScript_Class)
+[**Carmen Rendueles Martínez**](https://github.com/carmen279)
+- Completed all queries with functional programming or being helped by them
+- Created several Array functions to iterate or execute callback functions
+- Found the suspect from the "Sospechoso" exercise
+
+
+### [Miguel exercise](https://github.com/miguelliar/Miguel_jspractice)
+[**Miguel Ligero Arbesú**](https://github.com/miguelliar)
+- Completed all queries with functional programming or being helped by them
+- Created several Array functions to iterate or execute callback functions
+- Found the suspect from the "Sospechoso" exercise
