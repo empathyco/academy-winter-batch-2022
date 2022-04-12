@@ -6,7 +6,6 @@
 
 *DD-MM-YYYY*
 
-#### Participants & Content Deliverers  <!-- (Do not change this line!!!) -->
 <!-- (Do not change the line below!!!) -->
 | **Path Owner** | **Content Deliverer** | 
 | --- | --- | 
