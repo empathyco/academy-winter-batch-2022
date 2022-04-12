@@ -21,7 +21,7 @@
 4. ...
 5. Less important point
 
-**** <!-- (Do not change this line!!!) -->
+**** <!-- (Delete this comment and just leave the 4 *) -->
 
 ## Exercise
 (Autonomous work) <!-- Comment wheter if it is autonomous or group work -->
