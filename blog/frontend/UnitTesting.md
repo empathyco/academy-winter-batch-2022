@@ -20,7 +20,7 @@ In our fourth week of our path, we learned the basics of testing our Vue compone
 3. Use of mocks/stubs
 4. Code coverage metric pros & cons
 
-**** <!-- (Do not change this line!!!) -->
+****
 
 ## Testing the Rick and Morty app developed the previous week
 (Autonomous work) <!-- Comment wheter if it is autonomous or group work -->
