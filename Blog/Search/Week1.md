@@ -37,18 +37,15 @@ Apart from this, we had to develop the corresponding tests with Mockito.
 - Development of the Spring API and its integration with the ElasticSearch container
 - Struggling with the versions of ElasticSearch Java API and ElasticSearch engine running in Docker
 - Testing with Mockito
- ![img_name](assets/img_name.jpg) 
 
 **Author** [Alberto Díez](https://github.com/uo266536)
 - Installing the different technologies with SDKMan
 - Development of the Spring API and its integration with the ElasticSearch container
 - Struggling with the versions of ElasticSearch Java API and ElasticSearch engine running in Docker
 - Testing with Mockito
- ![img_name](assets/img_name.jpg) 
 
 **Author** [Marcos Tobías](https://github.com/MarcosTobias)
 - Installing the different technologies with SDKMan
 - Development of the Spring API and its integration with the ElasticSearch container
 - Struggling with the versions of ElasticSearch Java API and ElasticSearch engine running in Docker
 - Testing with Mockito
- ![img_name](assets/img_name.jpg) 
