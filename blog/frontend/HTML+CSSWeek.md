@@ -6,8 +6,6 @@ Our first week working was dedicated to the two fundamental pilars of web develo
 
 *21/03/2022*
 
-#### Participants & Content Deliverers
-
 | **Path Owner** | **Content Deliverer** | 
 | --- | --- | 
 | [Iván Palleiro](https://github.com/ivantxu) | [Pedro Ondiviela](https://github.com/PedroOndh) | \
