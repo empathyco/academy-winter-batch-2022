@@ -1,7 +1,7 @@
 # Week 3
 In order to put in practice the concepts taught in the previous module, Google Tag Manager (GTM) and Google Analytics (GA4) where implemented in a demonstration website. The main objective of this module is to be able to create functional tags, measure them and track certain events happening on the website within the Google environment. Besides this practical work, the Module 3, consisting in resuming the work done by the backend data team (systems used, architecture and processing of the data, etc), was exposed.
 
-## Module 2
+## Module 2. Google Courses
 
 *01/05/2022*
 
@@ -29,7 +29,9 @@ In order to put in practice the concepts taught in the previous module, Google T
 
 **Author** [Enrique Carnero](https://github.com/enriquerodez), [Rodrigo Alvarez](https://github.com/RodriAF),[Pablo Santurio](https://github.com/santurio928)
 
- ## Module 3
+****
+
+ ## Module 3. Data Architecture
 
 *04/05/2022*
 
