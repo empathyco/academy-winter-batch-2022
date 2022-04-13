@@ -6,7 +6,7 @@ Introduction to Google tools for analytics
 
 *28/03/2020*
 
-#### Participants & Content Deliverers
+
 
 | **Path Owner** | **Content Deliverer** |
 | --- | --- | 
@@ -30,8 +30,8 @@ Eva Gonzalez from the analytics path gave us an overview about Universal Analyti
 Along this week we did the courses and we wanted to go deeply, so we tried to connect the website of our frontend developers fellows with a Google analytics and GTM accounts.
 
 Finally, at the end of the week Eva proposed to us to set up a new website with Google analytics and GTM.
-<Statement>
-### [3 courses of GA3](https://analytics.google.com/analytics/academy/)
+
+### [3 courses of GA3](https://analytics.google.com/analytics/academy/) 
 **Author** Enrique Carnero, Rodrigo Alvarez, Pablo Santurio
 
 ### [3 courses of GA3](https://analytics.google.com/analytics/academy/)
@@ -41,5 +41,5 @@ Finally, at the end of the week Eva proposed to us to set up a new website with 
 **Author** Enrique Carnero, Rodrigo Alvarez, Pablo Santurio
 
 ### [GTM course](https://analytics.google.com/analytics/academy/course/5)
-**Author** Enrique Carnero, Rodrigo Alvarez, Pablo Santurio
+**Author** [Enrique Carnero](https://github.com/enriquerodez), [Rodrigo Alvarez](https://github.com/RodriAF),[Pablo Santurio](https://github.com/santurio928)
  
