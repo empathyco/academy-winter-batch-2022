@@ -2,14 +2,14 @@
 
 
 # Welcome Week
-< In this week, Eva introduced us to analytical metrics, terms and processes, giving us a first view of this everyday topics.>
+In this week, Eva introduced us to analytical metrics, terms and processes, giving us a first view of this everyday topics.
 
-## Session
-### Max five words description
+## Introduction
+### Analytical Slang and Processes
 
 *21-03-2022*
 
-#### Participants & Content Deliverers
+
 
 | **Path Owner** | **Content Deliverer** | 
 | --- | --- | 
@@ -32,6 +32,8 @@
 ****
 
 ## Exercise
-(Autonomos work)
-< 1. Define a funnel for the empathy search process. \n 2. Select a web site you like and try to define goals and KPIs for it. \n 3. Check some webs and try to find and see the analytics hits.>
+
+1. Define a funnel for the empathy search process. 
+2. Select a web site you like and try to define goals and KPIs for it. 
+3. Check some webs and try to find and see the analytics hits.
 
