@@ -6,7 +6,6 @@ In our fourth week of our path, we learned the basics of testing our Vue compone
 
 *10-04-2022*
 
-#### Participants & Content Deliverers  <!-- (Do not change this line!!!) -->
 <!-- (Do not change the line below!!!) -->
 | **Path Owner** | **Content Deliverer** | 
 | --- | --- | 
@@ -27,7 +26,7 @@ In our fourth week of our path, we learned the basics of testing our Vue compone
 This week, our autonomuos work consisted on implementing some unitary tests of the Rick and Morty exercise implemented for the previous week, which was a simple application using an external API.
 Tough the week was shorter because Easter holidays took Thursday and Friday away from us, we still met the objectives.
 
-### [Miguel's Rick & Morty app] (https://github.com/miguelliar/vue-practice)
+### [Miguel's Rick & Morty app](https://github.com/miguelliar/vue-practice)
 **Author** [Miguel Ligero](https://github.com/miguelliar)
 - Unitary tests for all components
 
