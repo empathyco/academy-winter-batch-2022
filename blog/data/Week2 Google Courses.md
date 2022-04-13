@@ -31,14 +31,11 @@ Along this week we did the courses and we wanted to go deeply, so we tried to co
 
 Finally, at the end of the week Eva proposed to us to set up a new website with Google analytics and GTM.
 
-### [3 courses of GA3](https://analytics.google.com/analytics/academy/) 
-**Author** Enrique Carnero, Rodrigo Alvarez, Pablo Santurio
-
 ### [3 courses of GA3](https://analytics.google.com/analytics/academy/)
-**Author** Enrique Carnero, Rodrigo Alvarez, Pablo Santurio
+**Author** [Enrique Carnero](https://github.com/enriquerodez), [Rodrigo Alvarez](https://github.com/RodriAF),[Pablo Santurio](https://github.com/santurio928)
 
 ### [GA4 course](https://skillshop.exceedlms.com/student/catalog/list?category_ids=6431-google-analytics-4&utm_campaign=redirect&utm_source=analytics-academy&utm_medium=banner)
-**Author** Enrique Carnero, Rodrigo Alvarez, Pablo Santurio
+**Author** [Enrique Carnero](https://github.com/enriquerodez), [Rodrigo Alvarez](https://github.com/RodriAF),[Pablo Santurio](https://github.com/santurio928)
 
 ### [GTM course](https://analytics.google.com/analytics/academy/course/5)
 **Author** [Enrique Carnero](https://github.com/enriquerodez), [Rodrigo Alvarez](https://github.com/RodriAF),[Pablo Santurio](https://github.com/santurio928)
