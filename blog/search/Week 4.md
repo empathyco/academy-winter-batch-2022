@@ -1,5 +1,5 @@
 # Week 4: Getting better at indexing :smirk_cat:
-Going on with the first approach to indexing of week 3, the purpose for this week was to reduce time for his task, for which we had to evaluate different code alternatives and choose one that fitted our code. ([Alberto Villamayor](https://github.com/avillamayordevega) helped us a bit :eyes:)
+Going on with the first approach to indexing of week 3, the purpose for this week was to reduce the time spent by the task, for which we had to evaluate different code alternatives and choose one that fitted our code. ([Alberto Villamayor](https://github.com/avillamayordevega) helped us a bit :eyes:)
 
 ## Session
 ### Indexing review with Alberto
