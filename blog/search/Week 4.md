@@ -1,5 +1,5 @@
 # Week 4: Getting better at indexing :smirk_cat:
-Going on with the first approach to indexing of week 3, the purpose for this week was to reduce time fot his task, for which we had to evaluate different code alternatives and choose one that fitted our code. ([Alberto Villamayor](https://github.com/avillamayordevega) helped us a bit :eyes:)
+Going on with the first approach to indexing of week 3, the purpose for this week was to reduce time for his task, for which we had to evaluate different code alternatives and choose one that fitted our code. ([Alberto Villamayor](https://github.com/avillamayordevega) helped us a bit :eyes:)
 
 ## Session
 ### Indexing review with Alberto
@@ -24,11 +24,11 @@ Going on with the first approach to indexing of week 3, the purpose for this wee
 
 ## Exercise
 With all the mapping and requests created, we were set to index every document in _title.basics.tsv_. Unfortunately for us, the 
-indexing was very slow, so we had to find some sort of solutiom :snail:.
+indexing was very slow, so we had to find some sort of solution :snail:.
 
 Going through the jungle of ElasticSearch Java API documentation, we discovered something that could do the trick: **BulkRequest**. **BulkRequest** is an API class that allows sending to ElasticSearch batches of documents to be indexed; Dramatically increasing the performance. We struggled a bit with it to keep it working but as always, **academy search team** overcame the difficulties :sunglasses::ok_hand:.
 
-After making everything work (:man_mage:) [Alberto](https://github.com/avillamayordevega) reviewed our code and told us about some code improvements that could be made and recommended us the usage of some coding tools such like _SonarLint_ and _Insomnia_.
+After making everything work (:mage:) [Alberto](https://github.com/avillamayordevega) reviewed our code and told us about some code improvements that could be made and recommended us the usage of some coding tools such like _SonarLint_ and _Insomnia_.
 
 <Statement>
 
