@@ -4,7 +4,7 @@ The purpose for this week is to index the database from IMDB, using the correct 
 ## Session
 ### Indexing and mapping with Elasticsearch
 
-06/04/2022
+*06/04/2022*
 
 #### Participants & Content Deliverers
 
