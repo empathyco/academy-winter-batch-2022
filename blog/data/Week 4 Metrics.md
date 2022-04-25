@@ -24,15 +24,16 @@ During this week, we learnt about the usage of the APIs (STATS API) and the metr
 
 ## Exercises
 (Autonomous work) <!-- Comment wheter if it is autonomous or group work -->
+
 1 Analysis of the main KPIs and metrics per session for the following clients:
 
-● CDL
+·CDL
 
-● Vodafone
+·Vodafone
 
-● Perfumes Club
+·Perfumes Club
 
-● Stradivarius
+·Stradivarius
 
 2 For former customers, represent their scopes in Elastic.
 
