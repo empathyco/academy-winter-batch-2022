@@ -26,12 +26,12 @@ We needed Sara´s help so we did another meeting on Thursday in which she teache
 
 Finally at the end of the week we started to getting used with python and reviewing the Python´s scripts and material.
 
-### [Analysis of the main KPIs and metrics per session for the following clients.](CDL,Vodafone,Perfumes Club,Stradivarius)
+### Analysis of the main KPIs and metrics per session for the following clients.(CDL,Vodafone,Perfumes Club,Stradivarius)
 **Author** [Enrique Carnero](https://github.com/enriquerodez), [Rodrigo Alvarez](https://github.com/RodriAF),[Pablo Santurio](https://github.com/santurio928)
-### [For former customers, represent their scopes in Elastic.]
+### For former customers, represent their scopes in Elastic.
 **Author** [Enrique Carnero](https://github.com/enriquerodez), [Rodrigo Alvarez](https://github.com/RodriAF),[Pablo Santurio](https://github.com/santurio928)
- ### [Represent in Elastic which customers a product was added to the cart after searching for "bag" in the last week.]
+ ### Represent in Elastic which customers a product was added to the cart after searching for "bag" in the last week.
 **Author** [Enrique Carnero](https://github.com/enriquerodez), [Rodrigo Alvarez](https://github.com/RodriAF),[Pablo Santurio](https://github.com/santurio928)
-### [Using Elastic, obtain a list of clients that have events with session.]
+### Using Elastic, obtain a list of clients that have events with session.
 **Author** [Enrique Carnero](https://github.com/enriquerodez), [Rodrigo Alvarez](https://github.com/RodriAF),[Pablo Santurio](https://github.com/santurio928)
 
