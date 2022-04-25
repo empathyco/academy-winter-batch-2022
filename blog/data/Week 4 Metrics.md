@@ -25,10 +25,17 @@ During this week, we learnt about the usage of the APIs (STATS API) and the metr
 ## Exercises
 (Autonomous work) <!-- Comment wheter if it is autonomous or group work -->
 1 Analysis of the main KPIs and metrics per session for the following clients:
+
 ● CDL
+
 ● Vodafone
+
 ● Perfumes Club
+
 ● Stradivarius
+
 2 For former customers, represent their scopes in Elastic.
-3 Represent in Elastic which customers a product was added to the cart after searching for "bag" in the last week
+
+3 Represent in Elastic which customers a product was added to the cart after searching for "bag" in the last week.
+
 4 Using Elastic, obtain a list of clients that have events with session.
