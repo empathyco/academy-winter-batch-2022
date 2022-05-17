@@ -24,7 +24,7 @@ During this week we learned new advanced features of Vue to improve our skills i
 
 ## IMDb exercise
 (Autonomous work) <!-- Comment wheter if it is autonomous or group work -->
-The development of the frontend for the IMDb project in collaboration with the other Academy Path improved, having more information to display and implementing a Search Engine.
+The development of the frontend for the IMDb project in collaboration with the other Academy Paths improved, having more information to display and implementing a Search Engine.
 ### [Carmen's IMDb project](https://github.com/carmen279/IMDb_academy_app)
 **Author** [Carmen Rendueles Martínez](https://github.com/carmen279)
 
