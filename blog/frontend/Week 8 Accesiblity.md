@@ -1,7 +1,7 @@
-# Accesibility
-Front open session started this week with a first class about accesibility. In parallel, the IMBd grows very fast. 
-## Accesiblity open session
-### Learning to make web pages accesible to everyone.
+# Accessibility
+Front open session started this week with a first class about accessibility. In parallel, the IMDb project grows very fast. 
+## Accessiblity open session
+### Learning to make web pages accessible to everyone.
 
 *12-05-2022*
 
@@ -21,7 +21,7 @@ Front open session started this week with a first class about accesibility. In p
 
 ## IMDb project
 (Autonomous work) <!-- Comment wheter if it is autonomous or group work -->
-Both IMDb projects continued to grow, iterate and improve, getting closer to a final version. Comunication and planning with the data fellows started in order to show some interesting insights in the web.
+Both IMDb projects continued to grow, iterate and improve, getting closer to a final version. Communication and planning with the data fellows started in order to show some interesting insights in the web.
 ### [Carmen's IMDb project](https://github.com/carmen279/IMDb_academy_app)
 **Author** [Carmen Rendueles Martínez](https://github.com/carmen279)
 
