@@ -1,9 +1,9 @@
 # IMDb project and Module 7 exercises
-In this week we set up the IMDb project and realize the exercises of Module 7.
+In this week we set up the IMDb project and did the exercises of Module 7.
 ## IMDb project
 We did all together a template for organize ourselves and estblish the jobs to do.
 ### Module 7 exercises.
-Along this week we did the exercises related with module 7, we learnt how to use properly graphs that allow us to get the insights needed for a good analysis.
+Along this week we did the exercises related with module 7, we learnt how to properly use graphs that allow us to get the insights needed for a good analysis.
 
 
 *09/05/2022*
@@ -20,20 +20,20 @@ Along this week we did the exercises related with module 7, we learnt how to use
 
 At the beginning of the week we started IMDb project from the data point of view.
 
-All the academy´s teams leaded by Jose (https://github.com/jllorian)
+All the academy teams leaded by Jose (https://github.com/jllorian)
 worked together in a Miro template and set up the jobs to do, and who should do them.
 
-We worked also in a Python´s script tha could manage the data and get the insights for the project, within the data team we created a GitHub repository with that purpose.
+We worked also in a Python´s script that could manage the data and get the insights for the project, within the data team we created a GitHub repository for that purpose.
 ****
 ## Exercise
 
 1. How to manage google sheet 
-2. How to adecuate the graphics for the analysis
+2. How to adequate the graphics for the analysis
 
-We used diferents kinds of plots depending on diferent kinds od datasets. in the first exercise we had 7 clients with the records of their top values, and we basically represetn them in a bar chart and in a Pareto chart for a descriptive analysis.
+We used differents kinds of plots depending on different kinds od datasets. in the first exercise we had 7 clients with the records of their top values, and we basically represent them in a bar chart and in a Pareto chart for a descriptive analysis.
 
 
-In the second exercises we had a time serie with diferent KPI´s and we had to  get some insights about it.
+In the second exercises we had a time series with diferent KPI´s and we had to get some insights about it.
 
 It was especially relevant how to adjust the insights and plots to only 2 slides cause in the most of times it is what a coustomer want.
 
