@@ -62,7 +62,6 @@ This approach encouraged us to compete a bit with each other and try to build di
 - Improvement of code according to our Search mentors' feedback
 
 **Author** [Alberto Díez](https://github.com/uo266536)
-- Boosteo películas por encima de series y potencia título principal/título original y número de votos
 - A query that boosts films over other kind of contents of the database and boosts both the title match and the number of votes + rating.
 - Repository documentation
 - Implementation of custom analyzers and tokenizers
@@ -70,7 +69,6 @@ This approach encouraged us to compete a bit with each other and try to build di
 - Improvement of code according to our Search mentors' feedback
 
 **Author** [Marcos Tobías](https://github.com/MarcosTobias)
-- Potencia por rating más que por numero de votos y películas por encima del resto de contenidos. 
 - A query that boosts rating over popularity (number of votes). It also boosts films over other types of content of the database.
 - Repository documentation
 - Implementation of custom analyzers and tokenizers
