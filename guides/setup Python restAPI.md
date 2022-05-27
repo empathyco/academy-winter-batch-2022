@@ -3,6 +3,7 @@
 * Setup a virtual environment
 * Update pip and install dependencies
 * Use the virtual environment in vsCode
+* Setup with Conda
 * Create api.py file
 * Setup Dockerfile and docker-compose
 * Enjoy
@@ -62,6 +63,24 @@ Reset VSCode. For using our virtual environment there are different ways. The fi
 Another option would be to create an api.py file, and opening it. Now on the bottom right corner of VSCode should appear the python version. Clicking on it would open a dialog for changing the interpreter as well.
 
 Now open a terminal, ctrl + shift + `, and it should also have (\<path\>) at the beginning of each line. If you had a previous terminal opened before changing the interpreter, you may need to close and open again the terminal for it to be displayed.
+
+&nbsp;
+
+## Setup with conda
+If you have conda and want to use it, the steps are the following:
+````
+conda create --name myenv
+conda activate myenv
+````
+
+Now, open VSCode and press cmd + shift + p, and write interpreter. Click on select python interpreter, and on the list should appear myenv, the new virtual environment we just created. If it does not appear, close and open it again.
+Then, open a terminal with control + shift + `, and myenv should appear on the beggining of each line.
+
+Run on the terminal:
+````
+Conda install pip
+````
+And now you can follow the steps in "Update pip and install dependencies", and skip to "Create api.py file".
 
 &nbsp;
 
