@@ -78,7 +78,7 @@ Then, open a terminal with control + shift + `, and myenv should appear on the b
 
 Run on the terminal:
 ````
-Conda install pip
+conda install pip
 ````
 And now you can follow the steps in "Update pip and install dependencies", and skip to "Create api.py file".
 
