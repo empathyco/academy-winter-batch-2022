@@ -60,9 +60,9 @@ Guided by [Empathy.co](https://empathy.co/)'s values, this batch aims to collabo
 ## Timetable
 - [x] March 7th: **Batch Kick-off**
 - [x] April 9th: **Blog starts**
-- [ ] April 11th: **Multidisciplinary project starts**
-- [ ] May 9th: **Preparation for the 2nd Phase project**
-- [ ] May 27th: **Live presentation of the project results**
+- [x] April 11th: **Multidisciplinary project starts**
+- [x] May 9th: **Preparation for the 2nd Phase project**
+- [x] May 27th: **Live presentation of the project results**
 - [ ] May 30th: **Fork [@JaimeObregon](https://twitter.com/jaimeobregon)'s repository**
 - [ ] May 30th: **Agile rutine starts**
 - [ ] June 3rd: **Project Gant chart**
