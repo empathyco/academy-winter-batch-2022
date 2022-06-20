@@ -63,7 +63,13 @@ Guided by [Empathy.co](https://empathy.co/)'s values, this batch aims to collabo
 - [x] April 11th: **Multidisciplinary project starts**
 - [x] May 9th: **Preparation for the 2nd Phase project**
 - [x] May 27th: **Live presentation of the project results**
-- [ ] May 30th: **Fork [@JaimeObregon](https://twitter.com/jaimeobregon)'s repository**
-- [ ] May 30th: **Agile rutine starts**
-- [ ] June 3rd: **Project Gant chart**
+- [ ] ~~May 30th: **Fork [@JaimeObregon](https://twitter.com/jaimeobregon)'s repository**~~
+  - Instead of forking, during the desing thinking phase, the Fellows decided to start from scratch.
+  - The repository will be public later on.
+- [x] May 30th: **Agile rutine starts**
+- [x] ~~June 3rd: **Project Gant chart**~~
+  - Gantt chart replaced with a roadmap (link WIP).
+- [x] June 16th: Fellows decide main features to engage with the selected personas. Features (link WIP) | User Personas (link WIP):
+- [ ] June 30th: Front (1st half) to visualise general data insights.
+- [ ] July 14th: Front (2nd half) with quality components to have a joyful interaction with the data and the search engine.
 - [ ] August 5th: **Live presentation**
